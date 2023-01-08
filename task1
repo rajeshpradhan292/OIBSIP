@@ -169,11 +169,6 @@ label{
 
 /* Responsive styles */
 
-@media (max-width: 960px){
-  header .navigation{
-    display: none;
-  }
-
   label{
     display: block;
     font-size: 25px;
@@ -243,7 +238,6 @@ label{
   .content .info p{
     font-size: 14px;
   }
-}
 
 @media (max-width: 660px){
   .content .info h2{
@@ -259,4 +253,3 @@ label{
   .content .info p{
     font-size: 14px;
   }
-}
